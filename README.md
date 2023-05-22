@@ -9,10 +9,15 @@ Lavanya Seetharaman believes in the power of collective intelligence and she is 
 She believes that every individual has the potential to be a change-maker and a change agent, a doer, and a learner. Her quest has always been to help anyone who has a desire to learn and be a changemaker. Currently, she is a mentor at Board Infinity - a community where she helps people learn how to create software products. She is a full-stack engineer, a techie, a learner, a creator, and a doe
 
 ## Skills 🛠️
-[![My Skills](https://skills.thijs.gg/icons?i=react,redux,nodejs,mongodb,js,expressjs,html,css,tailwind,materialui,sass,ts&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react,redux,nodejs,mongodb,js,expressjs,postgres,nginx,html,css,tailwind,materialui,sass,blender,ts&theme=light)](https://skills.thijs.gg)
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,grafana,jenkins,vim" />
+  </a>
+</p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow" />
   </a>
 </p>
 
